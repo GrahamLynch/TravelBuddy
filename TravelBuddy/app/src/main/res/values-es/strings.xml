@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TravelBuddy</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">correo electrónico</string>
+    <string name="welcomeBack">Dar una buena acogida!</string>
+    <string name="Login">Iniciar sesión!</string>
+    <string name="Back" translatable="false">atrás</string>
+    <string name="flights">Comprobar vuelos</string>
+    <string name="pointsofinterest">Puntos de interés</string>
+    <string name="translate">Traducir</string>
+    <string name="aboutme">Sobre mi</string>
+    <string name="visited">Países que has visitado!</string>
+    <string name="cathedral">Sagrada Familia, Barcelona, Spain</string>
+    <string name="bigben">Big Ben, Londres, Inglaterra</string>
+    <string name="eiffel">Torre Eiffel, París, Francia</string>
+    <string name="pisa">Leaning tower of Pisa, Pisa, Italy</string>
+    <string name="language">Elige tu idioma!</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="enterText">Ingrese texto</string>
+    <string name="favCountry">Mis destinos favoritos!</string>
+    <string name="BookFlights" translatable="false">Reserve sus vuelos!</string>
+    <string name="flight1">Dublín - Barcelona, ​​Ryanair, FR3977</string>
+    <string name="flight2">Dublín - París, Ryanair, FR1860</string>
+    <string name="flight3">Dublín - París, Aer Lingus, EI524</string>
+    <string name="flight4">Dublín - Milán, Aer Lingus, EI432</string>
+    <string name="motto">TravelBuddy: hacer que viajar sea más fácil</string>
+    <string name="register">¿No tienes una cuenta? ¡Registrar aquí!</string>
+    <string name="forgotPassword">Se te olvidó tu contraseña?</string>
+    <string name="spanishPhrases">Frases en español!</string>
+    <string name="chooseYourPhrase">Elige tu frase!</string>
+    <string name="helloInSpanish">Hola en español</string>
+    <string name="howAreYouInSpanish">Como estas en español</string>
+    <string name="goodMorningInSpanish">Buenos dias en español</string>
+    <string name="helloInItalian">Hola en italiano</string>
+    <string name="howAreYouInItalian">Como estas en italiano</string>
+    <string name="camera">Cámara</string>
+    <string name="yesInItalian">Como estas en italiano</string>
+    <string name="italianPhrases">Frases en italiano!</string>
+    <string name="frenchPhrases">Frases en francés!</string>
+    <string name="helloInFrench">Hola en frances</string>
+    <string name="goodByeInFrench">Adios en francés</string>
+    <string name="howAreYouInFrench">Como estas en frances</string>
+    <string name="bookFlight">Reservar un vuelo</string>
+    <string name="recentAirline">Mi aerolínea más reciente:</string>
+    <string name="recentPointOfInterest">Mis puntos de interés más recientes</string>
+    <string name="locationsIHaveVisited">Lugares que he visitado!</string>
+    <string name="Whatsapp">Whatsapp</string>
+    <string name="FullName">Nombre completo</string>
+    <string name="Email">Email</string>
+    <string name="register1">Registro</string>
+    <string name="alreadyRegistered">Ya registrado? Registrarse</string>
+    <string name="Password">Contraseña</string>
+    <string name="none">Ninguno</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string-array name="country_arrays">
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>English</item>
+    </string-array>
+</resources>

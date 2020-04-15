@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TravelBuddy</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcomeBack">Welcome Back!</string>
+    <string name="Login">Login!</string>
+    <string name="Back" translatable="false">Back</string>
+    <string name="flights">Check Flights</string>
+    <string name="pointsofinterest">Points of Interest</string>
+    <string name="translate">Translate</string>
+    <string name="aboutme">About Me</string>
+    <string name="visited">Countrys you have visited!</string>
+    <string name="cathedral">Sagrada Familia, Barcelona, Spain</string>
+    <string name="bigben">Big Ben, London, England</string>
+    <string name="eiffel">Eiffel Tower, Paris, France</string>
+    <string name="pisa">Leaning tower of Pisa, Pisa, Italy</string>
+    <string name="language">Choose your language!</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="enterText">Enter Text</string>
+    <string name="favCountry">My favourite destinations!</string>
+    <string name="logout">Logout</string>
+    <string name="BookFlights" translatable="false">Book your Flights!</string>
+    <string name="flight1">Dublin - Barcelona , Ryanair, FR3977</string>
+    <string name="flight2">Dublin - Paris , Ryanair, FR1860</string>
+    <string name="flight3">Dublin - Paris, Aer Lingus, EI524</string>
+    <string name="flight4">Dublin - Milan, Aer Lingus, EI432</string>
+    <string name="motto">TravelBuddy - Making travelling easier</string>
+    <string name="register">Dont have an account? Register Here!</string>
+    <string name="register1">Register</string>
+    <string name="alreadyRegistered">Already Registered? Sign In</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="spanishPhrases">Spanish Phrases!</string>
+    <string name="chooseYourPhrase">Choose Your Phrase!</string>
+    <string name="helloInSpanish">Hello in Spanish</string>
+    <string name="howAreYouInSpanish">How are You in Spanish</string>
+    <string name="goodMorningInSpanish">Good Morning in Spanish</string>
+    <string name="helloInItalian">Hello in Italian</string>
+    <string name="howAreYouInItalian">How are You in Italian</string>
+    <string name="yesInItalian">Yes in Italian</string>
+    <string name="italianPhrases">Italian Phrases!</string>
+    <string name="frenchPhrases">French Phrases!</string>
+    <string name="helloInFrench">Hello in French</string>
+    <string name="goodByeInFrench">Goodbye in French</string>
+    <string name="howAreYouInFrench">How Are You In French</string>
+    <string name="bookFlight">Book Flight</string>
+    <string name="recentAirline">My most recent airline:</string>
+    <string name="camera">Camera</string>
+    <string name="Whatsapp">Whatsapp</string>
+    <string name="FullName">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="recentPointOfInterest">My most recent Points of Interest</string>
+    <string name="locationsIHaveVisited">Locations I have visited!</string>
+    <string name="none">None</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="country_arrays">
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>English</item>
+    </string-array>
+</resources>
